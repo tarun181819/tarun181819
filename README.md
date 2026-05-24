@@ -1,9 +1,6 @@
-<!-- HEADER SECTION -->
 <div align="center">
-  <!-- PREMIUM HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/view?type=waving&color=gradient&customColorList=0,11,26,100,0,102,204,100,128,0,255,100&height=220&section=header&text=Tarun%20Yadav&fontSize=55&fontAlignY=45&animation=twinkling&fontColor=ffffff" width="100%" alt="Tarun Yadav Banner" />
 
-  <!-- DYNAMIC TYPING SUBTITLE -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=AWS+%26+DevOps+Engineer;Cloud+Infrastructure+Automation;CI%2FCD+Pipeline+Architect" alt="Typing SVG" />
   </a>
@@ -20,31 +17,52 @@
 
 ## 🚀💥 Tools & Technologies 💥🚀
 
-<div align="center">
-  <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS" alt="AWS"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Terraform -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="60" title="Terraform" alt="Terraform"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Kubernetes -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes" alt="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" title="Docker" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Jenkins -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins" alt="Jenkins"/>
-  
-  <br/><br/>
-  
-  <!-- Ansible -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="60" title="Ansible" alt="Ansible"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" title="Linux" alt="Linux"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" title="Git" alt="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Node.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" title="NodeJS" alt="NodeJS"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" title="React" alt="React"/>
-</div>
+<table border="0" align="center" width="100%" cellpadding="10">
+  <tr align="center">
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS" alt="AWS"/><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="60" title="Terraform" alt="Terraform"/><br/>
+      <sub><b>Terraform</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes" alt="Kubernetes"/><br/>
+      <sub><b>Kubernetes</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" title="Docker" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins" alt="Jenkins"/><br/>
+      <sub><b>Jenkins</b></sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="60" title="Ansible" alt="Ansible"/><br/>
+      <sub><b>Ansible</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" title="Linux" alt="Linux"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" title="Git" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" title="NodeJS" alt="NodeJS"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" title="React" alt="React"/><br/>
+      <sub><b>ReactJS</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
