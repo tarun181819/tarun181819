@@ -14,35 +14,37 @@
 
 ## 🪐 About Me
 
-🚀 Hello World! I'm **Tarun Yadav**, a forward-thinking Cloud & DevOps Engineer focused on designing, scaling, and automating production-grade cloud environments. I specialize in bridging the gap between development and operations by implementing high-availability infrastructure architectures and robust deployment frameworks.
-
-🎯 **What I Do Best:**
-* **Cloud Architecture:** Designing fault-tolerant, secure, and cost-optimized environments on **Amazon Web Services (AWS)**.
-* **Infrastructure as Code (IaC):** Treating infrastructure just like software by writing clean, modular configuration files using **Terraform**.
-* **Continuous Integration & Delivery:** Designing end-to-end automated **CI/CD pipelines** that accelerate release cycles with absolute stability.
-* **Containerization:** Packaging, deploying, and orchestration microservices seamlessly using **Docker** and **Kubernetes**.
+🚀 **Cloud & DevOps Engineer** with a strong foundation in architecting, scaling, and automating reliable cloud infrastructure. Specialized in building high-availability systems on **AWS**, writing modular **Infrastructure as Code (IaC)**, and implementing seamless **CI/CD automation** to eliminate deployment friction and accelerate release cycles. Driven by operational excellence, security, and designing self-healing environments.
 
 <br/>
 
 ## 🚀💥 Tools & Technologies 💥🚀
 
-### ☁️ Cloud & Infrastructure Automation
-* **Cloud Platform:** AWS (EC2, S3, IAM, VPC, CloudWatch)
-* **Infrastructure as Code (IaC):** Terraform
-* **Configuration Management:** Ansible
-* **Operating Systems:** Linux (Bash Scripting)
-
-### 🐋 Containerization & Orchestration
-* **Containers:** Docker (Multi-stage builds, Optimization)
-* **Orchestration:** Kubernetes (EKS, Cluster Management)
-
-### 🔄 CI/CD & Development Pipeline
-* **Automation Servers:** Jenkins (Pipelines-as-Code)
-* **Version Control & GitOps:** Git, GitHub Actions
-
-### 💻 Full-Stack Foundation
-* **Backend Systems:** Node.js
-* **Frontend Interfaces:** ReactJS
+<div align="center">
+  <!-- AWS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS" alt="AWS"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Terraform -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="60" title="Terraform" alt="Terraform"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Kubernetes -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes" alt="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" title="Docker" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Jenkins -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins" alt="Jenkins"/>
+  
+  <br/><br/>
+  
+  <!-- Ansible -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="60" title="Ansible" alt="Ansible"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" title="Linux" alt="Linux"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" title="Git" alt="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Node.js -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" title="NodeJS" alt="NodeJS"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" title="React" alt="React"/>
+</div>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
